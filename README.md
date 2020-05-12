@@ -34,5 +34,6 @@ To do the in-class exercise, you can either...
 
 ## Additional Resources
 
--   A deep [dive](https://medium.com/@jeffrey.allen.lewis/javascript-algorithms-explained-binary-search-25064b896470) into Binary Search with example code! 
+-   A deep [dive](https://www.geeksforgeeks.org/binary-search-in-javascript/) into Binary Search with example code! 
 - This Khan Academy [tutorial](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) breaks binary search breaks the concept down into modularized components! 
+- W3 School's [take] on Binary Search.
