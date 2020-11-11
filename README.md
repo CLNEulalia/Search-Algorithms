@@ -30,7 +30,7 @@ To learn more about search algorithms, there are two components to this lesson, 
 To do the in-class exercise, you can either...
 
 1. Fork and clone this repository to your local machine and work in the relevant files.
-2. Use [this codepen](https://codepen.io/GAmarketing/pen/aMbWQj?editors=0010#0) provided by the myGA Linked Lists module. (Includes the benefit of a test script.)
+2. Use [this codepen](https://codepen.io/GAmarketing/pen/aMbWQj?editors=0010#0) provided by the myGA Search Algorithms module. (Includes the benefit of a test script.)
 
 ## Additional Resources
 
